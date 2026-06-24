@@ -1,0 +1,12 @@
+zip Jehangir_Syed_Ch10_Arcade.zip \
+Part1_UML.pdf \
+Part3_Reflection.pdf \
+ArcadeManager.cpp \
+ArcadeManager.h \
+NumberGuesser.cpp \
+NumberGuesser.h \
+SlotMachine.cpp \
+SlotMachine.h \
+WordScramble.cpp \
+WordScramble.h \
+main.cpp
